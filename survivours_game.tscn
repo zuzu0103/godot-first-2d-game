@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" uid="uid://c2iqfauuu70e1" path="res://survivours_game.gd" id="1_dm6sl"]
 [ext_resource type="PackedScene" uid="uid://c181dpj4pa1ih" path="res://player.tscn" id="1_iql1l"]
-[ext_resource type="PackedScene" path="res://pine_tree.tscn" id="2_lpad1"]
+[ext_resource type="PackedScene" uid="uid://bof2f3ss1r15o" path="res://pine_tree.tscn" id="2_lpad1"]
 
 [sub_resource type="Curve2D" id="Curve2D_100ps"]
 _data = {
